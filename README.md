@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
@@ -59,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

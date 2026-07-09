@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0885-spiral-matrix-iii](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0885-spiral-matrix-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |

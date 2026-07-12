@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0071-simplify-path) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 ## Monotonic Stack
 |  |

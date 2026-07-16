@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0198-house-robber) |
 ## Memoization
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

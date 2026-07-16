@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

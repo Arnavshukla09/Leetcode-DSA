@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
+| [0434-number-of-segments-in-a-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0434-number-of-segments-in-a-string) |
 ## Stack
 |  |
 | ------- |

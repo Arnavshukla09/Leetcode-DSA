@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0434-number-of-segments-in-a-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Array
 |  |
 | ------- |
@@ -147,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->

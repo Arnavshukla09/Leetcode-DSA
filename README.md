@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |

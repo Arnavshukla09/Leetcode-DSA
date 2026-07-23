@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Sorting
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Arnavshukla09/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
